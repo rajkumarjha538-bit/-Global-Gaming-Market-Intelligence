@@ -54,7 +54,7 @@ These are findings reported by the current project files; validate the underlyin
 Built an interactive Power BI dashboard to analyze video game sales by console, genre, geography, and release year. Used data preparation, DAX-based metrics, and visual storytelling to summarize market performance and highlight trends.
 
 ## Author
-
+ raj jha
 **GCS Analytics**
 
 ---
